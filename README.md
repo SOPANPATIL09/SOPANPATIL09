@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @SOPANPATIL09
-- 👀 I’m interested in ... Python, Web Development, and Machine Learning.
-- 🌱 I’m currently learning ... Python and its frameworks (Flask, Django, FastAPI).
-- 💞️ I’m looking to collaborate on ... Open-source projects and Python-based applications.
-- 📫 How to reach me ...
-  ✉️ Email: sopanpramodpatil@gmail.com
-  📞 Phone: 7666186308
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I love solving coding challenges and exploring new tech!
+## 👋 Hi, I'm Sopan Patil!
 
-<!---
-SOPANPATIL09/SOPANPATIL09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Passionate About:** Python, Backend Development, and AI.  
+- 🌱 **Currently Learning:** Python, Flask, Django, and FastAPI.  
+- 💞️ **Looking to Collaborate On:**  
+  - Open-source Python projects  
+  - Web applications and API development  
+  - Backend optimization and automation  
+- 📫 **Reach Me At:**  
+  - ✉️ Email: [sopanpramodpatil@gmail.com](mailto:sopanpramodpatil@gmail.com)  
+  - 📞 Phone: 7666186308  
+- 😄 **Fun Fact:** I enjoy debugging more than writing code—because solving problems is fun!  
+- 🚀 **GitHub:** [SOPANPATIL09](https://github.com/SOPANPATIL09)  
+- 🔗 **LinkedIn:** [Sopan Patil](https://www.linkedin.com/in/sopan-patil-987076230)  
+
