@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Sopan Patil!
 
-- 👀 **Passionate About:** Python, Backend Development, and AI.  
-- 🌱 **Currently Learning:** Python, Flask, Django, and FastAPI.  
+- 👀 **Passionate About:** java, Backend Development, and AI.  
+- 🌱 **Currently Learning:** java, mysql,database  
 - 💞️ **Looking to Collaborate On:**  
-  - Open-source Python projects  
+  - Open-source java projects  
   - Web applications and API development  
   - Backend optimization and automation  
 - 📫 **Reach Me At:**  
