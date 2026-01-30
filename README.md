@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sopan Patil!
 
 - 👀 **Passionate About:** Java, Backend Development, and AI.  
-- 🌱 **Currently Learning:** Java, mysql,database  
+- 🌱 **Currently Learning:** Java, mysql 
 - 💞️ **Looking to Collaborate On:**  
   - Open-source Java projects  
   - Web applications and API development  
