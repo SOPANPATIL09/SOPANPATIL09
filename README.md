@@ -14,11 +14,7 @@
 
 ### 🧰 Tech Stack
 
- 
-
- Java + Spring Boot + Hibernate + MySQL + Git  
-
-  
+Java | Spring Boot | Hibernate | MySQL | Git
 
 ---
 
