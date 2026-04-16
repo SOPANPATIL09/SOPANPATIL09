@@ -1,5 +1,3 @@
----
-
 ### 🚀 About Me
 
 * 👀 Passionate about **Java, Backend Development, and AI**
