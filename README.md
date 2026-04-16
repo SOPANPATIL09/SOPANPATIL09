@@ -1,14 +1,42 @@
-## 👋 Hi, I'm Sopan Patil!
+---
 
-- 👀 **Passionate About:** Java, Backend Development, and AI.  
-- 🌱 **Currently Learning:** Java, mysql 
-- 💞️ **Looking to Collaborate On:**  
-  - Open-source Java projects  
-  - Web applications and API development  
-  - Backend optimization and automation  
-- 📫 **Reach Me At:**  
-  - ✉️ Email: [sopanpramodpatil@gmail.com](mailto:sopanpramodpatil@gmail.com)  
-  - 📞 Phone: 7666186308  
-- 😄 **Fun Fact:** I enjoy debugging more than writing code—because solving problems is fun!  
-- 🚀 **GitHub:** [SOPANPATIL09](https://github.com/SOPANPATIL09)  
-- 🔗 **LinkedIn:** [Sopan Patil](https://www.linkedin.com/in/sopan-patil-987076230)  
+### 🚀 About Me
+
+* 👀 Passionate about **Java, Backend Development, and AI**
+* 🌱 Currently learning **Spring Boot & System Design**
+* 💞️ Looking to collaborate on:
+
+  * Open-source Java projects
+  * Web applications & API development
+  * Backend optimization & automation
+
+---
+
+### 🧰 Tech Stack
+
+ 
+
+ Java + Spring Boot + Hibernate + MySQL + Git  
+
+  
+
+---
+
+### 📌 Projects
+
+* 🔹 **Gas Agency Management System** – Admin panel + customer booking system
+* 🔹 **Pharma Supply Chain System** – Inventory, supplier & order management
+
+---
+
+### 📫 Connect With Me
+
+* 📧 Email: [sopanpramodpatil@gmail.com](mailto:sopanpramodpatil@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/sopan-patil-987076230
+* 💻 GitHub: https://github.com/SOPANPATIL09
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy debugging more than writing code—because solving problems is fun 😄
